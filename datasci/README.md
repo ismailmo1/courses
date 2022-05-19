@@ -1,5 +1,11 @@
 # Data Science Resources
 
+Data science is what got me really excited about learning python, but practically data analytics is what I ended up using the most at work since having clean and repeatable datasets alone provided so much value at the time. Being able to automatically extract data from business systems, apply logic to aggregate and combine with other data sources felt like magic and it kept me busy enough to stay away from any real data sciency stuff.
+
+I'm still fascinated by data science - it seems as though a lot of technological breakthroughs in recent times have been in the area so it's always nice to feel like I understand atleast some of it.
+
+## Courses
+
 <details>
 <summary><b>Jose Portilla's Python for Data Science</b></summary>
 
@@ -56,4 +62,4 @@ Some of the Stuff I learnt:
 
 ## Whats next?
 
-An actual data science project that I complete end to end! I recently completed a more analytics [focussed project](https://wrapped.ismailmo.com) to scrape myfitnesspal data so adding in some models to predict fitness or weight loss data from that dataset could be the next step.
+An actual data science project that I complete end to end! I recently completed a more analytics [focussed project](https://wrapped.ismailmo.com) to scrape myfitnesspal data so developing a model to predict strength or weight loss from my food consumption could be the next step.
