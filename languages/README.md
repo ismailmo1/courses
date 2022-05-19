@@ -4,6 +4,8 @@ I first got started with VBA when I realised that I could automate 75% of my job
 
 I was given a monster of an excel sheet on my first day at work and I remember googling every excel function that I came across, panicking at the thought of not passing my probation because I had no clue how this workbook worked. The microsoft docs are a great resource but Excel is used by [half a billion people](https://www.google.com/search?q=excel+usage+statistics) worldwide so you'll never be short on answers when googling something.
 
+## Languages
+
 <details>
 <summary>VBA</summary>
 
