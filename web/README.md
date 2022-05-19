@@ -4,6 +4,8 @@ My first run in with web technologies was when I was looking for ways to share p
 
 I searched for courses on udemy and found a course and jumped straight in. It really opened up the world of software engineering and made a lot of concepts click - I just wish I discovered it earlier!
 
+## Courses
+
 <details>
 <summary><b>Colt Steele's Web Developer Bootcamp</b></summary>
 
